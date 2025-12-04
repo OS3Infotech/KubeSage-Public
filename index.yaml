@@ -22,6 +22,6 @@ entries:
     name: onboarding-agent
     type: application
     urls:
-    - https://OS3Infotech.github.io/KubeSage-Public/charts/onboarding-agent-0.1.0.tgz
+    - https://OS3Infotech.github.io/KubeSage-Public/charts/onboarding-agent-0.1.1.tgz
     version: 0.1.0
 generated: "2025-11-27T15:05:33.919112665Z"
