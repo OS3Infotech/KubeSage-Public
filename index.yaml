@@ -3,7 +3,7 @@ entries:
   onboarding-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-11-27T10:57:36.494097554Z"
+    created: "2025-11-27T15:05:33.958366042Z"
     dependencies:
     - condition: kyverno.enabled
       name: kyverno
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://OS3Infotech.github.io/KubeSage-Public/charts/onboarding-agent-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-27T10:57:36.462924122Z"
+generated: "2025-11-27T15:05:33.919112665Z"
