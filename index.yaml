@@ -3,7 +3,7 @@ entries:
   kubesage-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-10T11:44:18.974618695Z"
+    created: "2026-01-10T11:49:19.738589807Z"
     dependencies:
     - condition: kepler.enabled
       name: kepler
@@ -14,6 +14,6 @@ entries:
     name: kubesage-agent
     type: application
     urls:
-    - https://github.com/OS3Infotech/KubeSage-Public.git/charts/kubesage-agent-0.1.0.tgz
+    - https://OS3Infotech.github.io/KubeSage-Public/charts/kubesage-agent-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-10T11:44:18.94475259Z"
+generated: "2026-01-10T11:49:19.621148496Z"
