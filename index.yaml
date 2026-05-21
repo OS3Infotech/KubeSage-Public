@@ -3,17 +3,17 @@ entries:
   kubesage-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-05-21T09:44:42.652897876Z"
+    created: "2026-05-21T12:43:19.579437014Z"
     dependencies:
     - condition: kepler.enabled
       name: kepler
       repository: https://sustainable-computing-io.github.io/kepler-helm-chart
       version: 0.6.1
     description: A Helm chart for Kubernetes
-    digest: ad70f3d7266cdfb6f498ba2d2134d10f0fb95abed037e4445f2eceb28139784f
+    digest: 729865fdf612f60ece56dcd56e77a38ed2b180dc493bf44105054d40591dbe7b
     name: kubesage-agent
     type: application
     urls:
-    - https://OS3Infotech.github.io/KubeSage-Public/charts/kubesage-agent-0.1.1.tgz
-    version: 0.1.1
-generated: "2026-05-21T09:44:42.638214575Z"
+    - https://OS3Infotech.github.io/KubeSage-Public/charts/kubesage-agent-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-05-21T12:43:19.566079198Z"
